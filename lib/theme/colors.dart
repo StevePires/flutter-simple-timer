@@ -6,6 +6,4 @@ class ThemeColors {
   static const primaryElement = Color(0xFF007E80);
 
   static const onSecondary = primaryBackground;
-
-  static const test = Color(0xFFFF0000);
 }
